@@ -1,2 +1,6 @@
-com\nutrimap\model\Producto.class
+com\nutrimap\controller\HomeController.class
 com\nutrimap\Nutrimap.class
+com\nutrimap\controller\ProductoController.class
+com\nutrimap\repository\ProductoRepository.class
+com\nutrimap\service\ProductoService.class
+com\nutrimap\model\Producto.class
